@@ -17,16 +17,11 @@
 
 ## 🗂 Файлын бүтэц
 
-📁 project/
-├── index.html # UI бүтэц
-├── styles.css # Хэрэглэгчийн интерфэйс
-└── script.js # Логик болон localStorage ашиглалт
+📁 project/<br>
+├── index.html # UI бүтэц<br>
+├── styles.css # Хэрэглэгчийн интерфэйс<br>
+└── script.js # Логик болон localStorage ашиглалт<br>
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Гол функцууд
 
